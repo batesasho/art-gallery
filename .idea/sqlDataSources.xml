@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="DdlMappings">
-    <mapping uuid="351b71b8-266f-4f3c-8e52-fe485b2da6d6" name="artGallery Mapping">
-      <data-sources db="ec0066f5-9d6a-410c-92dc-429ec5fd1cd4" ddl="114c9b63-6062-43c1-8c94-84883f0cc3a3" />
+    <mapping uuid="40279dae-b7f0-4786-b318-924e3c542a4a" name="DDL Mapping">
+      <data-sources db="f02aa454-98db-4558-ab9e-22d5a6fc030c" ddl="1f9f0d85-11b6-411c-b09e-14e133cd70f5" />
       <scope>
         <node kind="database" negative="1">
           <node kind="schema" negative="1" />
@@ -14,9 +14,9 @@
     <option name="dataSources">
       <list>
         <State>
-          <option name="id" value="114c9b63-6062-43c1-8c94-84883f0cc3a3" />
+          <option name="id" value="1f9f0d85-11b6-411c-b09e-14e133cd70f5" />
           <option name="name" value="@192.168.1.15 (DDL)" />
-          <option name="languageId" value="GenericSQL" />
+          <option name="languageId" value="MongoDB" />
           <option name="urls">
             <array>
               <option value="file://$PROJECT_DIR$" />
